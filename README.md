@@ -29,7 +29,7 @@ A fun and educational math game for children with accessibility features designe
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/becks-math-safari.git
+   git clone https://github.com/becknadir/becks_math_safari.git
    cd becks-math-safari
    ```
 
