@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/b1103561-1ffe-4b40-992a-9bc9bd60e313
+
+
 # Beck's Math Safari
 
 A fun and educational math game for children with accessibility features designed to make learning math enjoyable for all.
@@ -13,10 +16,6 @@ A fun and educational math game for children with accessibility features designe
   - Text-to-speech support
 - Interactive game mechanics with instant feedback
 - Score tracking and three lives per game
-
-## Demo
-
-![Beck's Math Safari](demo-screenshot.png)
 
 ## Getting Started
 
